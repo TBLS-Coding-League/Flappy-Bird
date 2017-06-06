@@ -1,5 +1,0 @@
-﻿1>------ Build started: Project: sfml kill me please, Configuration: Debug Win32 ------
-1>main.cpp
-1>sfml kill me please.vcxproj -> C:\Users\Rose seo\Desktop\codes i guess\sfml kill me please\Debug\sfml kill me please.exe
-1>sfml kill me please.vcxproj -> C:\Users\Rose seo\Desktop\codes i guess\sfml kill me please\Debug\sfml kill me please.pdb (Partial PDB)
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
